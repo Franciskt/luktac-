@@ -1,0 +1,9 @@
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Interop.WMPLib.dll
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\AxInterop.WMPLib.dll
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.csproj.ResolveComReference.cache
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.frmAbout.resources
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.frmConvert.resources
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.frmMain.resources
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.Properties.Resources.resources
+D:\PROJECT1\Section 2\Final\Luktac\sources\Luktac\obj\Debug\Luktac.csproj.GenerateResource.Cache
